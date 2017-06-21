@@ -34,7 +34,7 @@
 
 ### Skills
 
-| Coding languages |   Testing     |   Databases  |  Frameworks  | Other tools  | Learning     |
+| Languages |   Testing     |   Databases  |  Frameworks  | Other tools  | Learning     |
 |:----------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|
 |     JavaScript        |     QUnit     |  postgreSQL  |    Hapi.js   |  Git/Github  |  d3.js       |
 |     Node.js         |    Jasmine    |              |    Express   |    Heroku    |    React     |
