@@ -37,10 +37,10 @@
 | Languages |   Testing     |   Databases  |  Frameworks  | Other tools  | Learning     |
 |:----------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|
 |     JavaScript        |     QUnit     |  postgreSQL  |    Hapi.js   |  Git/Github  |  d3.js       |
-|     Node.js         |    Jasmine    |              |    Express   |    Heroku    |    React     |
+|     Node.js         |    Tape    |              |    Express   |    Heroku    |    React     |
 |  HTML5      |  Travis CI    |              |              |  Handlebars  |  Redux       |
 |    CSS       |  Istanbul     |              |              |   Tachyons   |           C  |  
-|     SQL          |     Tape      |              |              |              | Processing   |  
+|     SQL          |           |              |              |              | Processing   |  
 
 <hr/>
 
