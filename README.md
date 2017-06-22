@@ -29,6 +29,11 @@
   - See the latest images from Curiosity, one of the Mars rovers. 
   - [code](https://github.com/ConchobarMacNessa/Rover-Images)
   - [site](https://rover-vision.herokuapp.com/)
+
+**Die Another Day**
+  - Obituary feed using the Guardian's API
+  - [code](https://github.com/oliverjam/week5-zapo/graphs/contributors)
+  - [site](https://frozen-caverns-62155.herokuapp.com/)
   
 <hr/>
 
