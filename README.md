@@ -60,7 +60,7 @@
  - Proposals Manager and Writer
  - Wrote and project managed competitive proposals for sale at auction for artworks valued at £1.5 million and above. 
  - Produced compelling market analysis and statistical evidence to inform and support business development worldwide.
- - Chosen to take part in the highley selective STEP programme for up and coming talent in the company. 
+ - Chosen to take part in the highly selective STEP programme for up and coming talent in the company. 
 
 <hr/>
 
